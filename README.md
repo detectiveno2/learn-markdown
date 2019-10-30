@@ -13,3 +13,13 @@ using double tildes to ~~strike through your text~~
 	* Third unordered item
 
 You can use number to describe a ordered list item and asterisk to describe a unordered list item
+## About link in markdown
+[This is an inline-style link](https://www.google.com)
+[This is an inline-style link with title](https://google.com "Click me to open google")
+[This a reference-style link][Arbitrary case-insensitive reference text]
+[This is relative reference link](../abc/xyz)
+[You can use number for reference-style link definations][1]
+
+The reference link can follow later
+[Arbitrary case-insensitive reference text]: https://www.mozilla.org
+[1]: https://w3schools.com
