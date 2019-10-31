@@ -23,3 +23,10 @@ You can use number to describe a ordered list item and asterisk to describe a un
 The reference link can follow later
 [Arbitrary case-insensitive reference text]: https://www.mozilla.org
 [1]: https://w3schools.com
+## About images in markdown
+Here is a loogo
+Inline-style:
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+Reference-style:
+![alt text](logo)
+[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
